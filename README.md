@@ -39,4 +39,4 @@ This application allows users to upload a CSV file, display a scatter plot, and 
 
 ## Customization
 
-You can customize the plot's appearance, such as point colors, sizes, and the style of selected points, by modifying the `create_scatter_plot` function in the `app.py` file. Please refer to the [Plotly Express documentation](https://plotly.com/python/plotly-express/) for more information on customizing the plot.
+You can customize the plot's appearance, such as point colors, sizes, and the style of selected points, by modifying the `create_scatter_plot` function in the `scatterPicker.py` file. Please refer to the [Plotly Express documentation](https://plotly.com/python/plotly-express/) for more information on customizing the plot.
