@@ -12,19 +12,19 @@ This application allows users to upload a CSV file, display a scatter plot, and 
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/NCGM-genome/scatterPicker.git
+`git clone https://github.com/NCGM-genome/scatterPicker.git`
 
 2. Change to the project directory:
-cd scatterPicker
+`cd scatterPicker`
 
 3. Install the required packages:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## Usage
 
-1. Run the Dash application:
-python scatterPicker.py
+1. Run the application:
+`python scatterPicker.py`
 
 
 2. Open your web browser and go to `http://127.0.0.1:8050`.
